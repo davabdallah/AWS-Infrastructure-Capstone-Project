@@ -9,7 +9,7 @@
 
 **2\. Create the terraform files**
 
-- Create main file, Providers file, Variables file, terraform.tfvars file Output file, all files in this repo
+- Create main, Providers, Variables, terraform.tfvars, and Output files, all files in this repo
 
 **3\. Deploy the VM**
 
