@@ -10,7 +10,9 @@
 **2\. Create the terraform files**
 
 - Create main file, you can find it here
+- Create Providers file, you can find it here
 - Create Variables file, you can find it here
+- Create tfvars file, you can find it here
 - Create Output file. you can find it here
 
 **3\. Deploy the VM**
