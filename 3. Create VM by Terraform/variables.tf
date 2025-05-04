@@ -2,6 +2,11 @@ variable "region" {
   type    = string
 }
 
+variable "project" {
+  description = "The name of the current project."
+  type        = string
+}
+
 variable "image_id" {
   type    = string
 }
